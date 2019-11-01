@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Chandler Squires</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Size of Interventional Markov Equivalence Classes in Random DAG Models</title>
+      <link>/publication/sizes-of-imecs/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sizes-of-imecs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery</title>
+      <link>/publication/abcd-strategy/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/abcd-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Estimation of Differences in Causal Graphs</title>
+      <link>/publication/difference-of-dags/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/difference-of-dags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
