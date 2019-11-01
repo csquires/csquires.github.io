@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuhao Wang | Chandler Squires</title>
+    <link>/authors/yuhao-wang/</link>
+      <atom:link href="/authors/yuhao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuhao Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yuhao Wang</title>
+      <link>/authors/yuhao-wang/</link>
+    </image>
+    
+    <item>
+      <title>Permutation-Based Causal Structure Learning with Unknown Intervention Targets</title>
+      <link>/publication/utigsp/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/utigsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Estimation of Differences in Causal Graphs</title>
+      <link>/publication/difference-of-dags/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/difference-of-dags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Chandler Squires</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;My research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, and multimodal data integration. I am lucky enough to be co-advised by Caroline Uhler and David Sontag.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basil Saeed</title>
+      <link>/authors/basil-saeed/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/basil-saeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caroline Uhler</title>
+      <link>/authors/caroline-uhler/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/caroline-uhler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Bernstein</title>
+      <link>/authors/daniel-bernstein/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-bernstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuhao Wang</title>
+      <link>/authors/yuhao-wang/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yuhao-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dmitriy Katz</title>
+      <link>/authors/dmitriy-katz/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dmitriy-katz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karthikeyan Shannmugan</title>
+      <link>/authors/karthikeyan-shannmugan/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/karthikeyan-shannmugan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karren Yang</title>
+      <link>/authors/karren-yang/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/karren-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karthikeyan Shanmugan</title>
+      <link>/authors/karthikeyan-shanmugan/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/karthikeyan-shanmugan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raj Agrawal</title>
+      <link>/authors/raj-agrawal/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/raj-agrawal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anastasiya Belyaeva</title>
+      <link>/authors/anastasiya-belyaeva/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/anastasiya-belyaeva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
