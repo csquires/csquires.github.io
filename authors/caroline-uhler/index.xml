@@ -5,12 +5,28 @@
     <link>/authors/caroline-uhler/</link>
       <atom:link href="/authors/caroline-uhler/index.xml" rel="self" type="application/rss+xml" />
     <description>Caroline Uhler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Caroline Uhler</title>
       <link>/authors/caroline-uhler/</link>
     </image>
+    
+    <item>
+      <title>Matching a Desired Causal State via Shift Interventions</title>
+      <link>/publication/causal-mean-matching/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/causal-mean-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum Likelihood Estimation for Brownian Motion Tree Models Based on One Sample</title>
+      <link>/publication/bmtm-mle/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bmtm-mle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Imputation via Synthetic Interventions</title>

@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets.">
+  <meta name="description" content="Transforming a causal system from a given initial state to a desired target state is an important task permeating multiple fields including control theory, biology, and materials science. In causal models, such transformations can be achieved by performing a set of interventions. In this paper, we consider the problem of identifying a shift intervention that matches the desired mean of a system through active learning. We define the Markov equivalence class that is identifiable from shift interventions and propose two active learning strategies that are guaranteed to exactly match a desired mean. We then derive a worst-case lower bound for the number of interventions required and show that these strategies are optimal for certain classes of graphs. In particular, we show that our strategies may require exponentially fewer interventions than the previously considered approaches, which optimize for structure learning in the underlying causal graph. In line with our theoretical results, we also demonstrate experimentally that our proposed active learning strategies require fewer interventions compared to several baselines.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/utigsp/">
+  <link rel="alternate" hreflang="en-us" href="/publication/causal-mean-matching/">
 
   
 
@@ -257,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/utigsp/">
+  <link rel="canonical" href="/publication/causal-mean-matching/">
 
   
   
@@ -273,15 +273,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Chandler Squires">
-  <meta property="og:url" content="/publication/utigsp/">
-  <meta property="og:title" content="Permutation-Based Causal Structure Learning with Unknown Intervention Targets | Chandler Squires">
-  <meta property="og:description" content="We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/publication/causal-mean-matching/">
+  <meta property="og:title" content="Matching a Desired Causal State via Shift Interventions | Chandler Squires">
+  <meta property="og:description" content="Transforming a causal system from a given initial state to a desired target state is an important task permeating multiple fields including control theory, biology, and materials science. In causal models, such transformations can be achieved by performing a set of interventions. In this paper, we consider the problem of identifying a shift intervention that matches the desired mean of a system through active learning. We define the Markov equivalence class that is identifiable from shift interventions and propose two active learning strategies that are guaranteed to exactly match a desired mean. We then derive a worst-case lower bound for the number of interventions required and show that these strategies are optimal for certain classes of graphs. In particular, we show that our strategies may require exponentially fewer interventions than the previously considered approaches, which optimize for structure learning in the underlying causal graph. In line with our theoretical results, we also demonstrate experimentally that our proposed active learning strategies require fewer interventions compared to several baselines."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-10-20T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-12-20T00:00:00&#43;00:00">
   
 
   
@@ -303,16 +303,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/utigsp/"
+    "@id": "/publication/causal-mean-matching/"
   },
-  "headline": "Permutation-Based Causal Structure Learning with Unknown Intervention Targets",
+  "headline": "Matching a Desired Causal State via Shift Interventions",
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2019-10-20T00:00:00Z",
+  "dateModified": "2021-12-20T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Chandler Squires"
+    "name": "Jiaqi Zhang"
   },
   
   "publisher": {
@@ -323,7 +323,7 @@
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets."
+  "description": "Transforming a causal system from a given initial state to a desired target state is an important task permeating multiple fields including control theory, biology, and materials science. In causal models, such transformations can be achieved by performing a set of interventions. In this paper, we consider the problem of identifying a shift intervention that matches the desired mean of a system through active learning. We define the Markov equivalence class that is identifiable from shift interventions and propose two active learning strategies that are guaranteed to exactly match a desired mean. We then derive a worst-case lower bound for the number of interventions required and show that these strategies are optimal for certain classes of graphs. In particular, we show that our strategies may require exponentially fewer interventions than the previously considered approaches, which optimize for structure learning in the underlying causal graph. In line with our theoretical results, we also demonstrate experimentally that our proposed active learning strategies require fewer interventions compared to several baselines."
 }
 </script>
 
@@ -341,7 +341,7 @@
 
 
 
-  <title>Permutation-Based Causal Structure Learning with Unknown Intervention Targets | Chandler Squires</title>
+  <title>Matching a Desired Causal State via Shift Interventions | Chandler Squires</title>
 
 </head>
 
@@ -602,7 +602,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Permutation-Based Causal Structure Learning with Unknown Intervention Targets</h1>
+  <h1>Matching a Desired Causal State via Shift Interventions</h1>
 
   
 
@@ -620,7 +620,7 @@
     
 
   
-  <span class="author-highlighted"><a href="/authors/admin/">Chandler Squires</a></span>, <span ><a href="/authors/yuhao-wang/">Yuhao Wang</a></span>, <span ><a href="/authors/caroline-uhler/">Caroline Uhler</a></span>
+  <span ><a href="/authors/jiaqi-zhang/">Jiaqi Zhang</a></span>, <span class="author-highlighted"><a href="/authors/admin/">Chandler Squires</a></span>, <span ><a href="/authors/caroline-uhler/">Caroline Uhler</a></span>
   </div>
   
   
@@ -631,7 +631,7 @@
     
       
     
-    October 2019
+    December 2021
   </span>
   
 
@@ -681,25 +681,17 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1910.09007" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2107.01850" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/utigsp/cite.bib">
+        data-filename="/publication/causal-mean-matching/cite.bib">
   Cite
 </button>
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://uhlerlab.github.io/causaldag/utigsp" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -726,7 +718,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets.</p>
+    <p class="pub-abstract">Transforming a causal system from a given initial state to a desired target state is an important task permeating multiple fields including control theory, biology, and materials science. In causal models, such transformations can be achieved by performing a set of interventions. In this paper, we consider the problem of identifying a shift intervention that matches the desired mean of a system through active learning. We define the Markov equivalence class that is identifiable from shift interventions and propose two active learning strategies that are guaranteed to exactly match a desired mean. We then derive a worst-case lower bound for the number of interventions required and show that these strategies are optimal for certain classes of graphs. In particular, we show that our strategies may require exponentially fewer interventions than the previously considered approaches, which optimize for structure learning in the underlying causal graph. In line with our theoretical results, we also demonstrate experimentally that our proposed active learning strategies require fewer interventions compared to several baselines.</p>
     
 
     
@@ -756,7 +748,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The Conference on Uncertainty in Artificial Intelligence</div>
+          <div class="col-12 col-md-9">The Thirty-Fifth Conference on Neural Information Processing Systems</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -794,6 +786,12 @@
 
 
   
+  
+    
+
+
+
+
   
     
 
@@ -895,12 +893,6 @@
 
 
   
-    
-
-
-
-
-  
 
 
 
@@ -923,11 +915,11 @@
       
       <li><a href="/publication/rfd-algorithm/">Efficient Permutation Discovery in Causal DAGs</a></li>
       
-      <li><a href="/publication/causal-mean-matching/">Matching a Desired Causal State via Shift Interventions</a></li>
-      
       <li><a href="/publication/bmtm-mle/">Maximum Likelihood Estimation for Brownian Motion Tree Models Based on One Sample</a></li>
       
       <li><a href="/publication/gspo/">Ordering-Based Causal Structure Learning in the Presence of Latent Variables</a></li>
+      
+      <li><a href="/publication/utigsp/">Permutation-Based Causal Structure Learning with Unknown Intervention Targets</a></li>
       
     </ul>
   </div>
