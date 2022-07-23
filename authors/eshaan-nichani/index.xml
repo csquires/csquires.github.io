@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raj Agrawal | Chandler Squires</title>
-    <link>/authors/raj-agrawal/</link>
-      <atom:link href="/authors/raj-agrawal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Raj Agrawal</description>
+    <title>Eshaan Nichani | Chandler Squires</title>
+    <link>/authors/eshaan-nichani/</link>
+      <atom:link href="/authors/eshaan-nichani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eshaan Nichani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Raj Agrawal</title>
-      <link>/authors/raj-agrawal/</link>
+      <title>Eshaan Nichani</title>
+      <link>/authors/eshaan-nichani/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/latent-factor-causal-models/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/latent-factor-causal-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery</title>
-      <link>/publication/abcd-strategy/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/abcd-strategy/</guid>
       <description></description>
     </item>
     

@@ -37,6 +37,22 @@
     </item>
     
     <item>
+      <title>Causal structure discovery between clusters of nodes induced by latent factors</title>
+      <link>/publication/latent-factor-causal-models/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/latent-factor-causal-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Structure Learning: a Combinatorial Perspective</title>
+      <link>/publication/causal-structure-learning-review/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/causal-structure-learning-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Permutation Discovery in Causal DAGs</title>
       <link>/publication/rfd-algorithm/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>

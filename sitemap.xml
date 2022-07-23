@@ -113,7 +113,27 @@
   </url>
   
   <url>
+    <loc>/authors/annie-yun/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/causal-discovery/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/causal-imputation/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/latent-factor-causal-models/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/causal-structure-learning-review/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,12 +158,22 @@
   </url>
   
   <url>
+    <loc>/authors/eshaan-nichani/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/imputation/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/joshua-amaniampong/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raj-agrawal/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -234,11 +264,6 @@
   
   <url>
     <loc>/authors/karthikeyan-shanmugan/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/raj-agrawal/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   

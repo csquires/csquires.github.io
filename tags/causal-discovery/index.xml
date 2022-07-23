@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chandler Squires</title>
-    <link>/authors/chandler-squires/</link>
-      <atom:link href="/authors/chandler-squires/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chandler Squires</description>
+    <title>Causal Discovery | Chandler Squires</title>
+    <link>/tags/causal-discovery/</link>
+      <atom:link href="/tags/causal-discovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Discovery</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Chandler Squires</title>
-      <link>/authors/chandler-squires/</link>
+      <title>Causal Discovery</title>
+      <link>/tags/causal-discovery/</link>
     </image>
-    
-    <item>
-      <title>Causal Imputation via Synthetic Interventions</title>
-      <link>/publication/causal-imputation/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-imputation/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Causal structure discovery between clusters of nodes induced by latent factors</title>

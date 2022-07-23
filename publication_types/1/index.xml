@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Causal Imputation via Synthetic Interventions</title>
+      <link>/publication/causal-imputation/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/causal-imputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal structure discovery between clusters of nodes induced by latent factors</title>
+      <link>/publication/latent-factor-causal-models/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/latent-factor-causal-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Active Structure Learning of Causal DAGs via Directed Clique Trees</title>
       <link>/publication/dct-policy/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
