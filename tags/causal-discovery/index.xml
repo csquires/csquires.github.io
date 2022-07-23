@@ -5,7 +5,7 @@
     <link>/tags/causal-discovery/</link>
       <atom:link href="/tags/causal-discovery/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal Discovery</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Causal Discovery</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Causal structure discovery between clusters of nodes induced by latent factors</title>
-      <link>/publication/latent-factor-causal-models/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/latent-factor-causal-models/</guid>
+      <title>Causal Structure Learning: a Combinatorial Perspective</title>
+      <link>/publication/causal-structure-learning-review/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/causal-structure-learning-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Causal Structure Learning: a Combinatorial Perspective</title>
-      <link>/publication/causal-structure-learning-review/</link>
+      <title>Causal structure discovery between clusters of nodes induced by latent factors</title>
+      <link>/publication/latent-factor-causal-models/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-structure-learning-review/</guid>
+      <guid>/publication/latent-factor-causal-models/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>/authors/caroline-uhler/</link>
       <atom:link href="/authors/caroline-uhler/index.xml" rel="self" type="application/rss+xml" />
     <description>Caroline Uhler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Caroline Uhler</title>
       <link>/authors/caroline-uhler/</link>
     </image>
+    
+    <item>
+      <title>Causal Structure Learning: a Combinatorial Perspective</title>
+      <link>/publication/causal-structure-learning-review/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/causal-structure-learning-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Matching a Desired Causal State via Shift Interventions</title>
@@ -41,14 +49,6 @@
       <link>/publication/latent-factor-causal-models/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/latent-factor-causal-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal Structure Learning: a Combinatorial Perspective</title>
-      <link>/publication/causal-structure-learning-review/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-structure-learning-review/</guid>
       <description></description>
     </item>
     
