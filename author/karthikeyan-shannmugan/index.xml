@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karthikeyan Shannmugan | Chandler Squires</title>
+    <link>/author/karthikeyan-shannmugan/</link>
+      <atom:link href="/author/karthikeyan-shannmugan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karthikeyan Shannmugan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Karthikeyan Shannmugan</title>
+      <link>/author/karthikeyan-shannmugan/</link>
+    </image>
+    
+    <item>
+      <title>Size of Interventional Markov Equivalence Classes in Random DAG Models</title>
+      <link>/publication/2019/sizes-of-imecs/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019/sizes-of-imecs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,298 +1,291 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/caroline-uhler/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/causal-discovery/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/causal-structure-learning-review/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/chandler-squires/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/caroline-uhler/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/causal-representation-learning/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/chandler-squires/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/mathias-drton/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/nils-sturma/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2023/unpaired-multi-domain-causal-representation-learning/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/anna-seigal/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2023/linear-causal-disentanglement-via-interventions/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/salil-bhate/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2022/active-learning-for-optimal-intervention-design/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/chandler-squires/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/experimental-design/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/jiaqi-zhang/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/louis-cammarata/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/themistoklis-sapsis/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/causal-structure-learning/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2022/causal-structure-learning-review/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/anish-agarwal/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/annie-yun/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2022/causal-imputation/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2022/latent-factor-causal-models/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/dennis-shen/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/devavrat-shah/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/eshaan-nichani/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/imputation/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/raj-agrawal/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/jan-christian-hutter/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/causal-structure-learning/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2021/bmtm-mle/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/michael-truell/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jan-christian-hutter/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/piotr-zwiernik/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jiaqi-zhang/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/causal-mean-matching/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bmtm-mle/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/michael-truell/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/piotr-zwiernik/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anish-agarwal/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/annie-yun/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/causal-imputation/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/latent-factor-causal-models/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dennis-shen/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/devavrat-shah/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2021/causal-mean-matching/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/neha-prasad/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2021/decamfounder/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/adityanarayanan-radhakrishnan/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/anastasiya-belyaeva/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2021/causal-networks-sars-cov2/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/g.v.-shivashankar/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/karren-dai-yang/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/louis-cammarate/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/rfd-algorithm/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/eshaan-nichani/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/joshua-amaniampong/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/imputation/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/joshua-amaniampong/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/raj-agrawal/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/dct-policy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2020/dct-policy/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dmitriy-katz/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/dmitriy-katz/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/experimental-design/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/karthikeyan-shanmugam/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/karthikeyan-shanmugam/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/kristjan-greenwald/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kristjan-greenwald/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/murat-kocaoglu/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/murat-kocaoglu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/sara-magliacane/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sara-magliacane/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/basil-saeed/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/basil-saeed/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daniel-bernstein/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/daniel-bernstein/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/gspo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2020/gspo/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/utigsp/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2020/utigsp/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yuhao-wang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/yuhao-wang/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/karthikeyan-shannmugan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/karthikeyan-shannmugan/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/sizes-of-imecs/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2019/sizes-of-imecs/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/abcd-strategy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2019/abcd-strategy/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/karren-yang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/karren-yang/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/karthikeyan-shanmugan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/karthikeyan-shanmugan/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anastasiya-belyaeva/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2018/difference-of-dags/</loc>
     <lastmod>2018-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/difference-of-dags/</loc>
-    <lastmod>2018-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/post/</loc>
+    <changefreq>weekly</changefreq>
   </url>
-  
 </urlset>

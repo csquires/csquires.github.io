@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental Design | Chandler Squires</title>
+    <link>/tag/experimental-design/</link>
+      <atom:link href="/tag/experimental-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Experimental Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Experimental Design</title>
+      <link>/tag/experimental-design/</link>
+    </image>
+    
+    <item>
+      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
+      <link>/publication/2022/active-learning-for-optimal-intervention-design/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/active-learning-for-optimal-intervention-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching a Desired Causal State via Shift Interventions</title>
+      <link>/publication/2021/causal-mean-matching/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021/causal-mean-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Structure Learning of Causal DAGs via Directed Clique Trees</title>
+      <link>/publication/2020/dct-policy/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/dct-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery</title>
+      <link>/publication/2019/abcd-strategy/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019/abcd-strategy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
