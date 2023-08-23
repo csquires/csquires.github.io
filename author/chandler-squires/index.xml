@@ -5,57 +5,56 @@
     <link>/author/chandler-squires/</link>
       <atom:link href="/author/chandler-squires/index.xml" rel="self" type="application/rss+xml" />
     <description>Chandler Squires</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/chandler-squires/avatar_huefeab47e3b186dd8d25ac7987f5b0141_1720158_270x270_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Chandler Squires</title>
       <link>/author/chandler-squires/</link>
     </image>
     
     <item>
-      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
-      <link>/publication/2022/active-learning-for-optimal-intervention-design/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022/active-learning-for-optimal-intervention-design/</guid>
+      <title>Linear Causal Disentanglement via Interventions</title>
+      <link>/publication/2023/linear-causal-disentanglement-via-interventions/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/linear-causal-disentanglement-via-interventions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Causal Imputation via Synthetic Interventions</title>
-      <link>/publication/2022/causal-imputation/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022/causal-imputation/</guid>
+      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
+      <link>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maximum Likelihood Estimation for Brownian Motion Tree Models Based on One Sample</title>
-      <link>/publication/2021/bmtm-mle/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021/bmtm-mle/</guid>
+      <title>Unpaired Multi-Domain Causal Representation Learning</title>
+      <link>/publication/2023/unpaired-multi-domain-causal-representation-learning/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/unpaired-multi-domain-causal-representation-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Matching a Desired Causal State via Shift Interventions</title>
-      <link>/publication/2021/causal-mean-matching/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021/causal-mean-matching/</guid>
+      <title>Causal Structure Learning: a Combinatorial Perspective</title>
+      <link>/publication/2022/causal-structure-learning-review/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/causal-structure-learning-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>
-      <link>/publication/2021/decamfounder/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021/decamfounder/</guid>
+      <title>Causal Structure Discovery between Clusters of Nodes Induced by Latent Factors</title>
+      <link>/publication/2022/latent-factor-causal-models/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/latent-factor-causal-models/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing</title>
-      <link>/publication/2021/causal-networks-sars-cov2/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+  </channel>
+</rss>
+0</pubDate>
       <guid>/publication/2021/causal-networks-sars-cov2/</guid>
       <description></description>
     </item>

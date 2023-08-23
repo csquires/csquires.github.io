@@ -26,23 +26,71 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>/author/anna-seigal/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/caroline-uhler/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/causal-representation-learning/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/chandler-squires/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/interventions/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2023/linear-causal-disentanglement-via-interventions/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/salil-bhate/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/akash-srivastava/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/jiaqi-zhang/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/karthikeyan-shanmugam/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/author/kristjan-greenewald/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/mathias-drton/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/multi-modal/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -50,28 +98,8 @@
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/publication/2023/unpaired-multi-domain-causal-representation-learning/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/anna-seigal/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication/2023/linear-causal-disentanglement-via-interventions/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/salil-bhate/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2022/active-learning-for-optimal-intervention-design/</loc>
@@ -83,10 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/experimental-design/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/jiaqi-zhang/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -107,39 +131,43 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/anish-agarwal/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/annie-yun/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2022/causal-imputation/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/2022/latent-factor-causal-models/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/dennis-shen/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/devavrat-shah/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/eshaan-nichani/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/imputation/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/raj-agrawal/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/unobserved-confounding/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/jan-christian-hutter/</loc>
@@ -207,10 +235,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/author/dmitriy-katz/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/author/karthikeyan-shanmugam/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
