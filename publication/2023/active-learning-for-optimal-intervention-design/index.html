@@ -264,12 +264,12 @@
 
   
 
-<meta name="description" content="We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets." />
+<meta name="description" content="An important problem across disciplines is the discovery of interventions that produce a desired outcome. When the space of possible interventions is large, making an exhaustive search infeasible, experimental design strategies are needed. In this context, encoding the causal relationships between the variables, and thus the effect of interventions on the system, is critical in order to identify desirable interventions efficiently. We develop an iterative causal method to identify optimal interventions, as measured by the discrepancy between the post-interventional mean of the distribution and a desired target mean. We formulate an active learning strategy that uses the samples obtained so far from different interventions to update the belief about the underlying causal model, as well as to identify samples that are most informative about optimal interventions and thus should be acquired in the next batch. The approach employs a Bayesian update for the causal model and prioritizes interventions using a carefully designed, causally informed acquisition function. This acquisition function is evaluated in closed form, allowing for efficient optimization. The resulting algorithms are theoretically grounded with information-theoretic bounds and provable consistency results. We illustrate the method on both synthetic data and real-world biological data, namely gene expression data from Perturb-CITE-seq experiments, to identify optimal perturbations that induce a specific cell state transition; the proposed causal approach is observed to achieve better sample efficiency compared to several baselines. In both cases we observe that the causally informed acquisition function notably outperforms existing criteria allowing for optimal intervention design with significantly less experiments." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="/publication/2020/utigsp/" />
-<link rel="canonical" href="/publication/2020/utigsp/" />
+<link rel="alternate" hreflang="en-us" href="/publication/2023/active-learning-for-optimal-intervention-design/" />
+<link rel="canonical" href="/publication/2023/active-learning-for-optimal-intervention-design/" />
 
 
 
@@ -305,9 +305,9 @@
   <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Chandler Squires" />
-<meta property="og:url" content="/publication/2020/utigsp/" />
-<meta property="og:title" content="Permutation-Based Causal Structure Learning with Unknown Intervention Targets | Chandler Squires" />
-<meta property="og:description" content="We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets." /><meta property="og:image" content="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="/publication/2023/active-learning-for-optimal-intervention-design/" />
+<meta property="og:title" content="Active Learning for Optimal Intervention Design in Causal Models | Chandler Squires" />
+<meta property="og:description" content="An important problem across disciplines is the discovery of interventions that produce a desired outcome. When the space of possible interventions is large, making an exhaustive search infeasible, experimental design strategies are needed. In this context, encoding the causal relationships between the variables, and thus the effect of interventions on the system, is critical in order to identify desirable interventions efficiently. We develop an iterative causal method to identify optimal interventions, as measured by the discrepancy between the post-interventional mean of the distribution and a desired target mean. We formulate an active learning strategy that uses the samples obtained so far from different interventions to update the belief about the underlying causal model, as well as to identify samples that are most informative about optimal interventions and thus should be acquired in the next batch. The approach employs a Bayesian update for the causal model and prioritizes interventions using a carefully designed, causally informed acquisition function. This acquisition function is evaluated in closed form, allowing for efficient optimization. The resulting algorithms are theoretically grounded with information-theoretic bounds and provable consistency results. We illustrate the method on both synthetic data and real-world biological data, namely gene expression data from Perturb-CITE-seq experiments, to identify optimal perturbations that induce a specific cell state transition; the proposed causal approach is observed to achieve better sample efficiency compared to several baselines. In both cases we observe that the causally informed acquisition function notably outperforms existing criteria allowing for optimal intervention design with significantly less experiments." /><meta property="og:image" content="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -316,7 +316,7 @@
     />
   
   
-    <meta property="article:modified_time" content="2019-10-20T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-10-02T00:00:00&#43;00:00">
   
 
 
@@ -340,16 +340,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/2020/utigsp/"
+    "@id": "/publication/2023/active-learning-for-optimal-intervention-design/"
   },
-  "headline": "Permutation-Based Causal Structure Learning with Unknown Intervention Targets",
+  "headline": "Active Learning for Optimal Intervention Design in Causal Models",
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2019-10-20T00:00:00Z",
+  "dateModified": "2023-10-02T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Chandler Squires"
+    "name": "Jiaqi Zhang"
   },
   
   "publisher": {
@@ -360,7 +360,7 @@
       "url": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets."
+  "description": "An important problem across disciplines is the discovery of interventions that produce a desired outcome. When the space of possible interventions is large, making an exhaustive search infeasible, experimental design strategies are needed. In this context, encoding the causal relationships between the variables, and thus the effect of interventions on the system, is critical in order to identify desirable interventions efficiently. We develop an iterative causal method to identify optimal interventions, as measured by the discrepancy between the post-interventional mean of the distribution and a desired target mean. We formulate an active learning strategy that uses the samples obtained so far from different interventions to update the belief about the underlying causal model, as well as to identify samples that are most informative about optimal interventions and thus should be acquired in the next batch. The approach employs a Bayesian update for the causal model and prioritizes interventions using a carefully designed, causally informed acquisition function. This acquisition function is evaluated in closed form, allowing for efficient optimization. The resulting algorithms are theoretically grounded with information-theoretic bounds and provable consistency results. We illustrate the method on both synthetic data and real-world biological data, namely gene expression data from Perturb-CITE-seq experiments, to identify optimal perturbations that induce a specific cell state transition; the proposed causal approach is observed to achieve better sample efficiency compared to several baselines. In both cases we observe that the causally informed acquisition function notably outperforms existing criteria allowing for optimal intervention design with significantly less experiments."
 }
 </script>
 
@@ -382,7 +382,7 @@
 
 
   
-  <title>Permutation-Based Causal Structure Learning with Unknown Intervention Targets | Chandler Squires</title>
+  <title>Active Learning for Optimal Intervention Design in Causal Models | Chandler Squires</title>
 
   
   
@@ -402,7 +402,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="43c6473f5ed541de555adec2858aed29" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="5888e3e297738929f84a3a03dc99ace7" >
 
   
   
@@ -618,7 +618,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Permutation-Based Causal Structure Learning with Unknown Intervention Targets</h1>
+  <h1>Active Learning for Optimal Intervention Design in Causal Models</h1>
 
   
 
@@ -635,9 +635,11 @@
   <div>
     
 
-  <span class="author-highlighted">
+  <span >
+      <a href="/author/jiaqi-zhang/">Jiaqi Zhang</a></span>, <span >
+      <a href="/author/louis-cammarata/">Louis Cammarata</a></span>, <span class="author-highlighted">
       <a href="/author/chandler-squires/">Chandler Squires</a></span>, <span >
-      <a href="/author/yuhao-wang/">Yuhao Wang</a></span>, <span >
+      <a href="/author/themistoklis-sapsis/">Themistoklis Sapsis</a></span>, <span >
       <a href="/author/caroline-uhler/">Caroline Uhler</a></span>
   </div>
   
@@ -649,7 +651,7 @@
     
       
     
-    October, 2019
+    October, 2023
   </span>
   
 
@@ -689,25 +691,17 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/1910.09007" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2209.04744" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/2020/utigsp/cite.bib">
+        data-filename="/publication/2023/active-learning-for-optimal-intervention-design/cite.bib">
   Cite
 </a>
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://uhlerlab.github.io/causaldag/utigsp" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
@@ -734,7 +728,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets.</p>
+    <p class="pub-abstract">An important problem across disciplines is the discovery of interventions that produce a desired outcome. When the space of possible interventions is large, making an exhaustive search infeasible, experimental design strategies are needed. In this context, encoding the causal relationships between the variables, and thus the effect of interventions on the system, is critical in order to identify desirable interventions efficiently. We develop an iterative causal method to identify optimal interventions, as measured by the discrepancy between the post-interventional mean of the distribution and a desired target mean. We formulate an active learning strategy that uses the samples obtained so far from different interventions to update the belief about the underlying causal model, as well as to identify samples that are most informative about optimal interventions and thus should be acquired in the next batch. The approach employs a Bayesian update for the causal model and prioritizes interventions using a carefully designed, causally informed acquisition function. This acquisition function is evaluated in closed form, allowing for efficient optimization. The resulting algorithms are theoretically grounded with information-theoretic bounds and provable consistency results. We illustrate the method on both synthetic data and real-world biological data, namely gene expression data from Perturb-CITE-seq experiments, to identify optimal perturbations that induce a specific cell state transition; the proposed causal approach is observed to achieve better sample efficiency compared to several baselines. In both cases we observe that the causally informed acquisition function notably outperforms existing criteria allowing for optimal intervention design with significantly less experiments.</p>
     
 
     
@@ -745,8 +739,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
           </div>
         </div>
@@ -762,7 +756,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">The Conference on Uncertainty in Artificial Intelligence</div>
+          <div class="col-12 col-md-9">Nature Machine Intelligence</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -782,7 +776,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/causal-structure-learning/">Causal Structure Learning</a>
+  <a class="badge badge-light" href="/tag/experimental-design/">Experimental Design</a>
   
 </div>
 
@@ -803,7 +797,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=%2Fpublication%2F2020%2Futigsp%2F&amp;text=Permutation-Based&#43;Causal&#43;Structure&#43;Learning&#43;with&#43;Unknown&#43;Intervention&#43;Targets" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=%2Fpublication%2F2023%2Factive-learning-for-optimal-intervention-design%2F&amp;text=Active&#43;Learning&#43;for&#43;Optimal&#43;Intervention&#43;Design&#43;in&#43;Causal&#43;Models" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -820,7 +814,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=%2Fpublication%2F2020%2Futigsp%2F&amp;t=Permutation-Based&#43;Causal&#43;Structure&#43;Learning&#43;with&#43;Unknown&#43;Intervention&#43;Targets" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook-f">
+        <a href="https://www.facebook.com/sharer.php?u=%2Fpublication%2F2023%2Factive-learning-for-optimal-intervention-design%2F&amp;t=Active&#43;Learning&#43;for&#43;Optimal&#43;Intervention&#43;Design&#43;in&#43;Causal&#43;Models" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook-f">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -839,7 +833,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Permutation-Based%20Causal%20Structure%20Learning%20with%20Unknown%20Intervention%20Targets&amp;body=%2Fpublication%2F2020%2Futigsp%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Active%20Learning%20for%20Optimal%20Intervention%20Design%20in%20Causal%20Models&amp;body=%2Fpublication%2F2023%2Factive-learning-for-optimal-intervention-design%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -856,7 +850,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=%2Fpublication%2F2020%2Futigsp%2F&amp;title=Permutation-Based&#43;Causal&#43;Structure&#43;Learning&#43;with&#43;Unknown&#43;Intervention&#43;Targets" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=%2Fpublication%2F2023%2Factive-learning-for-optimal-intervention-design%2F&amp;title=Active&#43;Learning&#43;for&#43;Optimal&#43;Intervention&#43;Design&#43;in&#43;Causal&#43;Models" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -873,7 +867,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Permutation-Based&#43;Causal&#43;Structure&#43;Learning&#43;with&#43;Unknown&#43;Intervention&#43;Targets%20%2Fpublication%2F2020%2Futigsp%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Active&#43;Learning&#43;for&#43;Optimal&#43;Intervention&#43;Design&#43;in&#43;Causal&#43;Models%20%2Fpublication%2F2023%2Factive-learning-for-optimal-intervention-design%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -890,7 +884,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=%2Fpublication%2F2020%2Futigsp%2F&amp;title=Permutation-Based&#43;Causal&#43;Structure&#43;Learning&#43;with&#43;Unknown&#43;Intervention&#43;Targets" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=%2Fpublication%2F2023%2Factive-learning-for-optimal-intervention-design%2F&amp;title=Active&#43;Learning&#43;for&#43;Optimal&#43;Intervention&#43;Design&#43;in&#43;Causal&#43;Models" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -909,6 +903,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 

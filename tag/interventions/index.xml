@@ -5,7 +5,7 @@
     <link>/tag/interventions/</link>
       <atom:link href="/tag/interventions/index.xml" rel="self" type="application/rss+xml" />
     <description>Interventions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Interventions</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Linear Causal Disentanglement via Interventions</title>
-      <link>/publication/2023/linear-causal-disentanglement-via-interventions/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023/linear-causal-disentanglement-via-interventions/</guid>
+      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
+      <link>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
-      <link>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
+      <title>Linear Causal Disentanglement via Interventions</title>
+      <link>/publication/2023/linear-causal-disentanglement-via-interventions/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/linear-causal-disentanglement-via-interventions/</guid>
       <description></description>
     </item>
     

@@ -70,6 +70,30 @@
     </item>
     
     <item>
+      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
+      <link>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpaired Multi-Domain Causal Representation Learning</title>
+      <link>/publication/2023/unpaired-multi-domain-causal-representation-learning/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/unpaired-multi-domain-causal-representation-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
+      <link>/publication/2023/active-learning-for-optimal-intervention-design/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/active-learning-for-optimal-intervention-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linear Causal Disentanglement via Interventions</title>
       <link>/publication/2023/linear-causal-disentanglement-via-interventions/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
@@ -78,26 +102,10 @@
     </item>
     
     <item>
-      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
-      <link>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unpaired Multi-Domain Causal Representation Learning</title>
-      <link>/publication/2023/unpaired-multi-domain-causal-representation-learning/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023/unpaired-multi-domain-causal-representation-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
-      <link>/publication/2022/active-learning-for-optimal-intervention-design/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022/active-learning-for-optimal-intervention-design/</guid>
+      <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>
+      <link>/publication/2023/decamfounder/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023/decamfounder/</guid>
       <description></description>
     </item>
     
@@ -138,14 +146,6 @@
       <link>/publication/2021/causal-mean-matching/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021/causal-mean-matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>
-      <link>/publication/2021/decamfounder/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021/decamfounder/</guid>
       <description></description>
     </item>
     
