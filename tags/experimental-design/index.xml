@@ -2,29 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimental Design | Chandler Squires</title>
-    <link>/tags/experimental-design/</link>
-      <atom:link href="/tags/experimental-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chandlersquires.com/tags/experimental-design/</link>
+      <atom:link href="https://chandlersquires.com/tags/experimental-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Experimental Design</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>Experimental Design</title>
-      <link>/tags/experimental-design/</link>
+      <link>https://chandlersquires.com/tags/experimental-design/</link>
     </image>
     
     <item>
+      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
+      <link>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching a Desired Causal State via Shift Interventions</title>
+      <link>https://chandlersquires.com/publication/2021/causal-mean-matching/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2021/causal-mean-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Active Structure Learning of Causal DAGs via Directed Clique Trees</title>
-      <link>/publication/dct-policy/</link>
+      <link>https://chandlersquires.com/publication/2020/dct-policy/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dct-policy/</guid>
+      <guid>https://chandlersquires.com/publication/2020/dct-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery</title>
-      <link>/publication/abcd-strategy/</link>
+      <link>https://chandlersquires.com/publication/2019/abcd-strategy/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/abcd-strategy/</guid>
+      <guid>https://chandlersquires.com/publication/2019/abcd-strategy/</guid>
       <description></description>
     </item>
     

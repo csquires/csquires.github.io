@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unobserved Confounding | Chandler Squires</title>
+    <link>https://chandlersquires.com/tags/unobserved-confounding/</link>
+      <atom:link href="https://chandlersquires.com/tags/unobserved-confounding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unobserved Confounding</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <title>Unobserved Confounding</title>
+      <link>https://chandlersquires.com/tags/unobserved-confounding/</link>
+    </image>
+    
+    <item>
+      <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>
+      <link>https://chandlersquires.com/publication/2023/decamfounder/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/decamfounder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Structure Discovery between Clusters of Nodes Induced by Latent Factors</title>
+      <link>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

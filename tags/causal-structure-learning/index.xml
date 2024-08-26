@@ -2,69 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Causal Structure Learning | Chandler Squires</title>
-    <link>/tags/causal-structure-learning/</link>
-      <atom:link href="/tags/causal-structure-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chandlersquires.com/tags/causal-structure-learning/</link>
+      <atom:link href="https://chandlersquires.com/tags/causal-structure-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal Structure Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>Causal Structure Learning</title>
-      <link>/tags/causal-structure-learning/</link>
+      <link>https://chandlersquires.com/tags/causal-structure-learning/</link>
     </image>
     
     <item>
-      <title>Matching a Desired Causal State via Shift Interventions</title>
-      <link>/publication/causal-mean-matching/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-mean-matching/</guid>
+      <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>
+      <link>https://chandlersquires.com/publication/2023/decamfounder/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/decamfounder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Structure Learning: a Combinatorial Perspective</title>
+      <link>https://chandlersquires.com/publication/2022/causal-structure-learning-review/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/causal-structure-learning-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Structure Discovery between Clusters of Nodes Induced by Latent Factors</title>
+      <link>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximum Likelihood Estimation for Brownian Motion Tree Models Based on One Sample</title>
-      <link>/publication/bmtm-mle/</link>
+      <link>https://chandlersquires.com/publication/2021/bmtm-mle/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/bmtm-mle/</guid>
+      <guid>https://chandlersquires.com/publication/2021/bmtm-mle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Efficient Permutation Discovery in Causal DAGs</title>
-      <link>/publication/rfd-algorithm/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rfd-algorithm/</guid>
+      <title>Causal Network Models of SARS-CoV-2 Expression and Aging to Identify Candidates for Drug Repurposing</title>
+      <link>https://chandlersquires.com/publication/2021/causal-networks-sars-cov2/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2021/causal-networks-sars-cov2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Structure Learning of Causal DAGs via Directed Clique Trees</title>
-      <link>/publication/dct-policy/</link>
+      <link>https://chandlersquires.com/publication/2020/dct-policy/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dct-policy/</guid>
+      <guid>https://chandlersquires.com/publication/2020/dct-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordering-Based Causal Structure Learning in the Presence of Latent Variables</title>
-      <link>/publication/gspo/</link>
+      <link>https://chandlersquires.com/publication/2020/gspo/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gspo/</guid>
+      <guid>https://chandlersquires.com/publication/2020/gspo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Permutation-Based Causal Structure Learning with Unknown Intervention Targets</title>
-      <link>/publication/utigsp/</link>
+      <link>https://chandlersquires.com/publication/2020/utigsp/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/utigsp/</guid>
+      <guid>https://chandlersquires.com/publication/2020/utigsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct Estimation of Differences in Causal Graphs</title>
-      <link>/publication/difference-of-dags/</link>
+      <link>https://chandlersquires.com/publication/2018/difference-of-dags/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/difference-of-dags/</guid>
+      <guid>https://chandlersquires.com/publication/2018/difference-of-dags/</guid>
       <description></description>
     </item>
     

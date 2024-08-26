@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Chandler Squires</title>
+    <link>https://chandlersquires.com/publication_types/2/</link>
+      <atom:link href="https://chandlersquires.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <title>2</title>
+      <link>https://chandlersquires.com/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
+      <link>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>
+      <link>https://chandlersquires.com/publication/2023/decamfounder/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/decamfounder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Structure Learning: a Combinatorial Perspective</title>
+      <link>https://chandlersquires.com/publication/2022/causal-structure-learning-review/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/causal-structure-learning-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Network Models of SARS-CoV-2 Expression and Aging to Identify Candidates for Drug Repurposing</title>
+      <link>https://chandlersquires.com/publication/2021/causal-networks-sars-cov2/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2021/causal-networks-sars-cov2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

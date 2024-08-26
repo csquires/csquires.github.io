@@ -2,85 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Chandler Squires</title>
-    <link>/publication_types/1/</link>
-      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chandlersquires.com/publication_types/1/</link>
+      <atom:link href="https://chandlersquires.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>https://chandlersquires.com/publication_types/1/</link>
     </image>
     
     <item>
-      <title>Matching a Desired Causal State via Shift Interventions</title>
-      <link>/publication/causal-mean-matching/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-mean-matching/</guid>
+      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
+      <link>https://chandlersquires.com/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unpaired Multi-Domain Causal Representation Learning</title>
+      <link>https://chandlersquires.com/publication/2023/unpaired-multi-domain-causal-representation-learning/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2023/unpaired-multi-domain-causal-representation-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Causal Imputation via Synthetic Interventions</title>
-      <link>/publication/causal-imputation/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-imputation/</guid>
+      <link>https://chandlersquires.com/publication/2022/causal-imputation/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/causal-imputation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Causal structure discovery between clusters of nodes induced by latent factors</title>
-      <link>/publication/latent-factor-causal-models/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/latent-factor-causal-models/</guid>
+      <title>Causal Structure Discovery between Clusters of Nodes Induced by Latent Factors</title>
+      <link>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching a Desired Causal State via Shift Interventions</title>
+      <link>https://chandlersquires.com/publication/2021/causal-mean-matching/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2021/causal-mean-matching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Structure Learning of Causal DAGs via Directed Clique Trees</title>
-      <link>/publication/dct-policy/</link>
+      <link>https://chandlersquires.com/publication/2020/dct-policy/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dct-policy/</guid>
+      <guid>https://chandlersquires.com/publication/2020/dct-policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordering-Based Causal Structure Learning in the Presence of Latent Variables</title>
-      <link>/publication/gspo/</link>
+      <link>https://chandlersquires.com/publication/2020/gspo/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gspo/</guid>
+      <guid>https://chandlersquires.com/publication/2020/gspo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Permutation-Based Causal Structure Learning with Unknown Intervention Targets</title>
-      <link>/publication/utigsp/</link>
+      <link>https://chandlersquires.com/publication/2020/utigsp/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/utigsp/</guid>
+      <guid>https://chandlersquires.com/publication/2020/utigsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Size of Interventional Markov Equivalence Classes in Random DAG Models</title>
-      <link>/publication/sizes-of-imecs/</link>
+      <link>https://chandlersquires.com/publication/2019/sizes-of-imecs/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/sizes-of-imecs/</guid>
+      <guid>https://chandlersquires.com/publication/2019/sizes-of-imecs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery</title>
-      <link>/publication/abcd-strategy/</link>
+      <link>https://chandlersquires.com/publication/2019/abcd-strategy/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/abcd-strategy/</guid>
+      <guid>https://chandlersquires.com/publication/2019/abcd-strategy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct Estimation of Differences in Causal Graphs</title>
-      <link>/publication/difference-of-dags/</link>
+      <link>https://chandlersquires.com/publication/2018/difference-of-dags/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/difference-of-dags/</guid>
+      <guid>https://chandlersquires.com/publication/2018/difference-of-dags/</guid>
       <description></description>
     </item>
     

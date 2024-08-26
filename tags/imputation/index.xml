@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imputation | Chandler Squires</title>
-    <link>/tags/imputation/</link>
-      <atom:link href="/tags/imputation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chandlersquires.com/tags/imputation/</link>
+      <atom:link href="https://chandlersquires.com/tags/imputation/index.xml" rel="self" type="application/rss+xml" />
     <description>Imputation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>Imputation</title>
-      <link>/tags/imputation/</link>
+      <link>https://chandlersquires.com/tags/imputation/</link>
     </image>
     
     <item>
       <title>Causal Imputation via Synthetic Interventions</title>
-      <link>/publication/causal-imputation/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/causal-imputation/</guid>
+      <link>https://chandlersquires.com/publication/2022/causal-imputation/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/causal-imputation/</guid>
       <description></description>
     </item>
     
