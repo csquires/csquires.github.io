@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tabular Machine Learning | Chandler Squires</title>
+    <link>https://chandlersquires.com/tags/tabular-machine-learning/</link>
+      <atom:link href="https://chandlersquires.com/tags/tabular-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tabular Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <title>Tabular Machine Learning</title>
+      <link>https://chandlersquires.com/tags/tabular-machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge-Enriched Machine Learning for Tabular Data</title>
+      <link>https://chandlersquires.com/publication/2025/knowledge-enriched-tabular/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/knowledge-enriched-tabular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

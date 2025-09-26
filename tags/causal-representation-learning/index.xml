@@ -5,12 +5,20 @@
     <link>https://chandlersquires.com/tags/causal-representation-learning/</link>
       <atom:link href="https://chandlersquires.com/tags/causal-representation-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal Representation Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>Causal Representation Learning</title>
       <link>https://chandlersquires.com/tags/causal-representation-learning/</link>
     </image>
+    
+    <item>
+      <title>Causal Foundations for Pragmatic Data Science</title>
+      <link>https://chandlersquires.com/publication/2025/thesis/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>

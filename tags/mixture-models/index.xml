@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixture Models | Chandler Squires</title>
+    <link>https://chandlersquires.com/tags/mixture-models/</link>
+      <atom:link href="https://chandlersquires.com/tags/mixture-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mixture Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <title>Mixture Models</title>
+      <link>https://chandlersquires.com/tags/mixture-models/</link>
+    </image>
+    
+    <item>
+      <title>Synthetic Potential Outcomes for Mixtures of Treatment Effects}</title>
+      <link>https://chandlersquires.com/publication/2025/synthetic-potential-outcomes/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/synthetic-potential-outcomes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

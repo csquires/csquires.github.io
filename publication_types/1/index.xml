@@ -5,12 +5,52 @@
     <link>https://chandlersquires.com/publication_types/1/</link>
       <atom:link href="https://chandlersquires.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>1</title>
       <link>https://chandlersquires.com/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Knowledge-Enriched Machine Learning for Tabular Data</title>
+      <link>https://chandlersquires.com/publication/2025/knowledge-enriched-tabular/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/knowledge-enriched-tabular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probably Approximately Correct High-dimensional Causal Effect Estimation Given a Valid Adjustment Set</title>
+      <link>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Landscape of Causal Discovery Data: Grounding Causal Discovery in Real-World Applications</title>
+      <link>https://chandlersquires.com/publication/2025/landscape-causal/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/landscape-causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Potential Outcomes for Mixtures of Treatment Effects}</title>
+      <link>https://chandlersquires.com/publication/2025/synthetic-potential-outcomes/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/synthetic-potential-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Imputation for Counterfactual SCMs: Bridging Graphs and Latent Factor Models</title>
+      <link>https://chandlersquires.com/publication/2024/causal-imputation-counterfactual/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2024/causal-imputation-counterfactual/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>

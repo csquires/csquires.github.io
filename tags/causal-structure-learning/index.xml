@@ -5,12 +5,36 @@
     <link>https://chandlersquires.com/tags/causal-structure-learning/</link>
       <atom:link href="https://chandlersquires.com/tags/causal-structure-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Causal Structure Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
       <title>Causal Structure Learning</title>
       <link>https://chandlersquires.com/tags/causal-structure-learning/</link>
     </image>
+    
+    <item>
+      <title>Probably Approximately Correct High-dimensional Causal Effect Estimation Given a Valid Adjustment Set</title>
+      <link>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Landscape of Causal Discovery Data: Grounding Causal Discovery in Real-World Applications</title>
+      <link>https://chandlersquires.com/publication/2025/landscape-causal/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/landscape-causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Foundations for Pragmatic Data Science</title>
+      <link>https://chandlersquires.com/publication/2025/thesis/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The DeCAMFounder: Non-Linear Causal Discovery in the Presence of Hidden Variables</title>

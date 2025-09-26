@@ -11,11 +11,75 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chandlersquires.com/publication_types/1/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/2025/knowledge-enriched-tabular/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication_types/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/tabular-machine-learning/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/causal-structure-learning/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/2025/landscape-causal/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/causal-effect-estimation/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/mixture-models/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/2025/synthetic-potential-outcomes/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication_types/7/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/2025/thesis/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chandlersquires.com/tags/causal-representation-learning/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/causal-imputation/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/publication/2024/causal-imputation-counterfactual/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://chandlersquires.com/tags/factor-models/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chandlersquires.com/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</loc>
@@ -27,18 +91,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chandlersquires.com/tags/multi-modal/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chandlersquires.com/publication_types/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chandlersquires.com/publication/</loc>
-    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chandlersquires.com/tags/</loc>
     <lastmod>2023-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,10 +186,6 @@
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://chandlersquires.com/tags/causal-structure-learning/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://chandlersquires.com/publication/2023/decamfounder/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,10 +207,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://chandlersquires.com/publication/2022/latent-factor-causal-models/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://chandlersquires.com/tags/imputation/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

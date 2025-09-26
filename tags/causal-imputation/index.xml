@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Imputation | Chandler Squires</title>
+    <link>https://chandlersquires.com/tags/causal-imputation/</link>
+      <atom:link href="https://chandlersquires.com/tags/causal-imputation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Imputation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <title>Causal Imputation</title>
+      <link>https://chandlersquires.com/tags/causal-imputation/</link>
+    </image>
+    
+    <item>
+      <title>Causal Imputation for Counterfactual SCMs: Bridging Graphs and Latent Factor Models</title>
+      <link>https://chandlersquires.com/publication/2024/causal-imputation-counterfactual/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2024/causal-imputation-counterfactual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Imputation via Synthetic Interventions</title>
+      <link>https://chandlersquires.com/publication/2022/causal-imputation/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2022/causal-imputation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
