@@ -5,20 +5,12 @@
     <link>https://chandlersquires.com/tags/experimental-design/</link>
       <atom:link href="https://chandlersquires.com/tags/experimental-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Experimental Design</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
       <title>Experimental Design</title>
       <link>https://chandlersquires.com/tags/experimental-design/</link>
     </image>
-    
-    <item>
-      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
-      <link>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Matching a Desired Causal State via Shift Interventions</title>

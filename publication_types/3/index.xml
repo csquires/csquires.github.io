@@ -5,26 +5,27 @@
     <link>https://chandlersquires.com/publication_types/3/</link>
       <atom:link href="https://chandlersquires.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
       <title>3</title>
       <link>https://chandlersquires.com/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Catastrophic Compositional Generation: Why Vanilla Diffusion Models Fail to Extrapolate</title>
+      <link>https://chandlersquires.com/publication/2026/catastrophic-compositional-generation/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2026/catastrophic-compositional-generation/</guid>
+      <description>&lt;p&gt;Compositional generation asks a conditional model to sample distributions defined by combinations of conditions beyond those observed during training. This work argues that vanilla conditional diffusion models can fail at this task even with improved inference-time procedures. Theory-guided arguments and experiments suggest that errors in learned scores can dominate sampling approximation errors for extrapolative targets, motivating approaches that address the underlying generalization problem.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Linear Causal Disentanglement via Interventions</title>
       <link>https://chandlersquires.com/publication/2023/linear-causal-disentanglement-via-interventions/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://chandlersquires.com/publication/2023/linear-causal-disentanglement-via-interventions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum Likelihood Estimation for Brownian Motion Tree Models Based on One Sample</title>
-      <link>https://chandlersquires.com/publication/2021/bmtm-mle/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://chandlersquires.com/publication/2021/bmtm-mle/</guid>
       <description></description>
     </item>
     

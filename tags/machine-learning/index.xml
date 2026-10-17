@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Chandler Squires</title>
+    <link>https://chandlersquires.com/tags/machine-learning/</link>
+      <atom:link href="https://chandlersquires.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
+      <title>Machine Learning</title>
+      <link>https://chandlersquires.com/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Context-Informed Ship Trajectory Prediction via Conditional Attention</title>
+      <link>https://chandlersquires.com/publication/2026/context-informed-ship-trajectory/</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2026/context-informed-ship-trajectory/</guid>
+      <description>&lt;p&gt;The Conditional Informer predicts ship trajectories by conditioning vessel dynamics on environmental information. Its attention mechanism lets vessel states query contextual variables such as weather, reflecting the directional dependence of motion on environmental conditions. A modality masking strategy improves robustness when contextual sensors are unavailable. Experiments combining AIS trajectories with ERA5 weather data show improved forecasting accuracy and substantially reduced errors when context is missing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

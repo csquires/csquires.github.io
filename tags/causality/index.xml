@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causality | Chandler Squires</title>
+    <link>https://chandlersquires.com/tags/causality/</link>
+      <atom:link href="https://chandlersquires.com/tags/causality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causality</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
+      <title>Causality</title>
+      <link>https://chandlersquires.com/tags/causality/</link>
+    </image>
+    
+    <item>
+      <title>Probably Approximately Correct High-dimensional Causal Effect Estimation Given a Valid Adjustment Set</title>
+      <link>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2025/pac-causal-effect-estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

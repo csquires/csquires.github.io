@@ -5,18 +5,18 @@
     <link>https://chandlersquires.com/publication_types/2/</link>
       <atom:link href="https://chandlersquires.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
       <title>2</title>
       <link>https://chandlersquires.com/publication_types/2/</link>
     </image>
     
     <item>
-      <title>Active Learning for Optimal Intervention Design in Causal Models</title>
-      <link>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://chandlersquires.com/publication/2023/active-learning-for-optimal-intervention-design/</guid>
+      <title>Maximum Likelihood Estimation for Brownian Motion Tree Models Based on One Sample</title>
+      <link>https://chandlersquires.com/publication/2026/bmtm-mle/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2026/bmtm-mle/</guid>
       <description></description>
     </item>
     
@@ -34,6 +34,15 @@
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://chandlersquires.com/publication/2022/causal-structure-learning-review/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DCI: Learning Causal Differences between Gene Regulatory Networks</title>
+      <link>https://chandlersquires.com/publication/2021/dci/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2021/dci/</guid>
+      <description>&lt;p&gt;Difference causal inference (DCI) identifies changes in gene regulatory relationships across two conditions directly from their expression data. Rather than reconstructing both complete networks, the algorithm estimates which causal edges appear, disappear, or change strength, reducing sample and computational requirements. A Python implementation includes stability selection across tuning parameters. Applications to single-cell RNA sequencing illustrate network comparison and validation through intervention-effect prediction.&lt;/p&gt;
+</description>
     </item>
     
     <item>

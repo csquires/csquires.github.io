@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Chandler Squires</title>
+    <link>https://chandlersquires.com/publication_types/6/</link>
+      <atom:link href="https://chandlersquires.com/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
+      <title>6</title>
+      <link>https://chandlersquires.com/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Causal Representation Learning</title>
+      <link>https://chandlersquires.com/publication/2026/causal-representation-learning/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://chandlersquires.com/publication/2026/causal-representation-learning/</guid>
+      <description>&lt;p&gt;This chapter introduces causal representation learning as an inverse problem: recovering a latent causal model from the observations it generates. It reviews how interventions on latent variables can make this recovery possible, covering identifiability results for parametric and nonparametric models under interventions on one or multiple variables. The chapter also discusses practical algorithms that connect these theoretical results to representation learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

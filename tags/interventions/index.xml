@@ -5,20 +5,12 @@
     <link>https://chandlersquires.com/tags/interventions/</link>
       <atom:link href="https://chandlersquires.com/tags/interventions/index.xml" rel="self" type="application/rss+xml" />
     <description>Interventions</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-US</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chandlersquires.com/media/icon_hu18418771358633061081.png</url>
+      <url>https://chandlersquires.com/media/icon_hu_ede9a59dfa629c0e.png</url>
       <title>Interventions</title>
       <link>https://chandlersquires.com/tags/interventions/</link>
     </image>
-    
-    <item>
-      <title>Identifiability Guarantees for Causal Disentanglement from Soft Interventions</title>
-      <link>https://chandlersquires.com/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://chandlersquires.com/publication/2023/identifiability-guarantees-for-causal-disentanglement-from-soft-interventions/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Linear Causal Disentanglement via Interventions</title>
